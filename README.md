@@ -55,6 +55,17 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 * Repository: TBD
 * Discord channel: TBD
 
+### [Booking rooms for events](calgary-rust.md)
+
+#### Team C
+
+* Members:
+  * Me
+  * Myself
+  * I
+* Repository: TBD
+* Discord channel: TBD
+
 ### Other problems
 
 [Algora.io](https://console.algora.io/) is a website for **paid** open-source contributions. It has a lot of problems that you can try to solve with Rust.
