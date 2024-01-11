@@ -81,4 +81,6 @@ Most likely, we'll need a headless browser to automate the process of booking a 
 
 For asynchronicity, it's recommended to use [`tokio`](https://tokio.rs/tokio/tutorial).
 
+For serialization and deserialization, it's recommended to use [`serde`](https://serde.rs/).
+
 For UI, it's recommended to use web technologies like HTML, CSS, and JavaScript. You can also use a Rust framework like [`yew`](https://yew.rs/) or [Leptos](https://www.leptos.dev/). They can be used for building [Tauri](https://tauri.app/) cross-platform application or, with wider range of supported platforms, [Cordova](https://cordova.apache.org/)/[Capacitor](https://capacitorjs.com/) cross-platform application.
