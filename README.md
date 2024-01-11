@@ -26,7 +26,7 @@ Hackathon participants are encouraged to use [`git`](https://git-scm.com/) to co
 
 Though this is a Rust hackathon, the participants are free to use any programming language they want. For example, this can make a lot of sense for frontend development or machine learning. However, you're encouraged to use Rust. By the way, you can also use native Rust modules in Python, JavaScript, and nearly any other programming language.
 
-You are expected to self-organize to solve the problems. And you're encouraged to keep working on the projects after the in-person phase of the first day of the hackathon is over. To faciliate the communication between the team members, you're encouraged to communicate in the respective `#<project-name>` event channel in the [Discord server of Calgary Rust](https://discord.gg/N2vzPeADzn). If you feel really motivated to complete the project and the project is big, you can also use tools like [Trello](https://trello.com/) or [ClickUp](https://app.clickup.com/) to organize the work.
+You are expected to self-organize to solve the problems. And you're encouraged to keep working on the projects after the in-person phase of the first day of the hackathon is over. To faciliate the communication between the team members, you're encouraged to communicate in the respective `#<project-name>` event channel in the Discord server of [Calgary Rust]. If you feel really motivated to complete the project and the project is big, you can also use tools like [Trello](https://trello.com/) or [ClickUp](https://app.clickup.com/) to organize the work.
 
 ## Problems
 
@@ -42,7 +42,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Myself
   * I
 * Repository: TBD
-* Discord channel: TBD
+* Discord channel: [Calgary Rust] [`#petrinex`](https://discord.com/channels/1090234243566817352/1194995761142841394).
 
 ### [Website for Omnipedia](omnipedia.md)
 
@@ -55,7 +55,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 * Repositories:
   * <https://github.com/Omnipedia/RC-Hackathon-Website>
   * <https://github.com/Omnipedia/RC-Hackathon-ChatUI>
-* Discord channel: TBD
+* Discord channel: [Calgary Rust] [`#omnipedia`](https://discord.com/channels/1090234243566817352/1194994891491659786).
 
 ### [Booking rooms for events](calgary-rust.md)
 
@@ -65,8 +65,8 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Me
   * Myself
   * I
-* Repository: <https://github.com/tailcallhq/tailcall>
-* Discord channel: TBD
+* Repository: TBD.
+* Discord channel: [Calgary Rust] [`#booking-rooms`](https://discord.com/channels/1090234243566817352/1194995158467485718).
 
 ### [Tailcall](tailcall.md)
 
@@ -76,8 +76,8 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Me
   * Myself
   * I
-* Repository: TBD
-* Discord channel: TBD
+* Repository: <https://github.com/tailcallhq/tailcall>.
+* Discord channel: [Tailcall](https://discord.com/invite/Q2ZExpFCnA) [`#contributors`](https://discord.com/channels/1044859667798568962/1156188728474214472).
 
 ### Other problems
 
@@ -88,3 +88,5 @@ Notably, we have a privilege to have requests from companies like [Tailcall](htt
 ## Problem submissions
 
 If you have a problem that you'd like to submit for the hackathon, please do so by creating a pull request to this repository. The pull request should add a Markdown file with the problem description. If you need assisstance with the submission of your problem, please contact `dmitrii_demenev` on Discord or e-mail `demenev.dmitriy1@gmail.com`.
+
+[Calgary Rust]: https://discord.gg/N2vzPeADzn
