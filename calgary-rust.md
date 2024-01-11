@@ -62,6 +62,7 @@ After the event is scheduled, we have to announce it...
 * To Tony Grimes from Pixels YYC (perhaps, via a mention in the message in the Calgary Rust Discord server).
 * Platform Calgary (see <https://www.platformcalgary.com/events/submit>).
 * To the [In The Know YYC](https://kettera.apps.ca-1a.mendixcloud.com/p/InTheKnowYYC).
+* To [This Week in Rust newsletter](https://this-week-in-rust.org/).
 * Other platforms.
 
 ## Task
