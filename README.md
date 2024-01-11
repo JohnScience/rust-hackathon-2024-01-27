@@ -12,6 +12,8 @@ The purpose of this hackathon is to help businesses (first and foremost, in Calg
 
 The hackathon will last for at least two days (January 27 and 28) but the participants can choose to continue working on the projects after the hackathon. This can be done, for example, at events organized by [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/) who host hackathons every month.
 
+We have little in-person time for the hackathon but you can continue working on the projects remotely. Further, we will discuss how we are going to facilitate the remote communication between the team members.
+
 ## For newcomers to Rust
 
 You're encouraged to start solving problems without hesitation. However, if you don't feel comforable jumping into the hackathon's projects right away, you can start by learning the fundamentals of Rust first. See [this](https://discord.com/channels/1090234243566817352/1164384007962755112/1164388726701555854) message in the Discord server of Calgary Rust.
@@ -24,11 +26,11 @@ Hackathon participants are encouraged to use [`git`](https://git-scm.com/) to co
 
 Though this is a Rust hackathon, the participants are free to use any programming language they want. For example, this can make a lot of sense for frontend development or machine learning. However, you're encouraged to use Rust. By the way, you can also use native Rust modules in Python, JavaScript, and nearly any other programming language.
 
-You are expected to self-organize to solve the problems. And you're encouraged to keep working on the projects after the in-person phase of the first day of the hackathon is over. To faciliate the communication between you, you're encouraged to communicate in the respective `#<project-name>` event channel in the [Discord server of Calgary Rust](https://discord.gg/N2vzPeADzn).
+You are expected to self-organize to solve the problems. And you're encouraged to keep working on the projects after the in-person phase of the first day of the hackathon is over. To faciliate the communication between the team members, you're encouraged to communicate in the respective `#<project-name>` event channel in the [Discord server of Calgary Rust](https://discord.gg/N2vzPeADzn). If you feel really motivated to complete the project and the project is big, you can also use tools like [Trello](https://trello.com/) or [ClickUp](https://app.clickup.com/) to organize the work.
 
 ## Problems
 
-**Disclaimer:** the problems can be highly unstructured and require communication with the people who submitted them.
+**Disclaimer:** the problems can be highly unstructured and require communication with the people who submitted them to clarify details.
 
 ### [Petrinex reports](petrinex-reports.md)
 
@@ -52,6 +54,12 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * I
 * Repository: TBD
 * Discord channel: TBD
+
+### Other problems
+
+[Algora.io](https://console.algora.io/) is a website for **paid** open-source contributions. It has a lot of problems that you can try to solve with Rust.
+
+Notably, we have a privilege to have requests from companies like [Tailcall](https://github.com/tailcallhq/tailcall) and [Synnada](https://www.synnada.ai/) (who want contributions to <https://github.com/apache/arrow-datafusion>).
 
 ## Last minute problem submissions
 
