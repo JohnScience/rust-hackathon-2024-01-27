@@ -81,7 +81,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 
 ### Other problems
 
-[Algora.io](https://console.algora.io/) is a website for **paid** open-source contributions. It has a lot of problems that you can try to solve with Rust.
+[Algora.io](https://console.algora.io/) is a website for **paid** open-source contributions. It has a lot of problems that you can try to solve with Rust and for which you can claim bounties.
 
 Notably, we have a privilege to have requests from companies like [Tailcall](https://github.com/tailcallhq/tailcall) and [Synnada](https://www.synnada.ai/) (who want contributions to <https://github.com/apache/arrow-datafusion>).
 
