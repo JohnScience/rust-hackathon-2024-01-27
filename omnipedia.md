@@ -1,6 +1,24 @@
 # Website for Omnipedia
 
-TBD
+Full disclosure, we have a draft for this we're happy with and as this would be the marketing website for us, it's more about graphics than functionality. Our 'marketing team' is pretty happy with our current site, it's just missing images. I think that as a hackathon, you'd get more out of the Chat UI. 
+
+That said, if you want to go this route, we need a few pages. 
+1. The main page showing two things. A a grpahic showing the basic premise (Wikipedia/PubMed/ArXiv/<< Your data here >>  -> A black box representation of our product -> A question and a text document answering it with citations from the input documents) an automated demo of the product (for which you may use the Postman collection I will provide). It does need to have taglines and such. Think OpenAI's page. They've got a variety of "We're here to save humanity from the evil robots" all over their site.
+2. There needs to be a form page to contact us. The user would input their email address and a short message, say, 2000 characters.
+
+# Chat UI for Omnipedia
+
+## Acceptance Criteria
+- Given I enter a query, when the response is returned, then it contains the citation, and a reference to the source text appears on the right.
+- Given the reference is printed, when I click the expand button next to it, then I see the original source passage.
+- Given the reference is printed, when I click the reference, then I am taken to the original source.
+- Given the response is returned, when I look at the source text, it is a passage or table that stands on it's own.
+- Given the response is returned, when the response prints a cited piece of text, the reference and source appear in a column on the right.
+- Given the response is returned, when the citations are printed, the references follow the preferred citation format.
+- Given the response is returned, when the citations are printed, the citations are are numbers in square brackets, and the matching reference has the same number.
+- Given the response is returned, when the citations and references are printed, the citations and references are numbered contiguously starting from 1.
+- Given the product demo returns a response with sources, when the user clicks on the citation, then they are navigated to the source text.
+- Given the machine returns a response, when it produces the citation in the text, only reference associate with the citations are shown in the sidebar.
 
 ## Discussion
 
