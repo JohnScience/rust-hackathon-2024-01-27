@@ -64,6 +64,17 @@ After the event is scheduled, we have to announce it...
 * To the [In The Know YYC](https://kettera.apps.ca-1a.mendixcloud.com/p/InTheKnowYYC).
 * Other platforms.
 
+## Task
+
+Automate and simplify the process of booking a room for an event.
+
+If possible, consider the following features:
+
+* Booking suggestions (book the room with a single click).
+* Multi-day booking (e.g. for a two-day hackathon).
+* Booking multiple nearby rooms (e.g. for a hackathon with multiple teams).
+* Event templates.
+
 ## Possibly useful technologies
 
 Most likely, we'll need a headless browser to automate the process of booking a room. You can consider using <https://github.com/rust-headless-chrome/rust-headless-chrome> or <https://github.com/jonhoo/fantoccini>. Going with `fantoccini` is preferrable because it's based on WebDriver protocol and can be used with other browsers.
