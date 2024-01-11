@@ -72,6 +72,6 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 
 Notably, we have a privilege to have requests from companies like [Tailcall](https://github.com/tailcallhq/tailcall) and [Synnada](https://www.synnada.ai/) (who want contributions to <https://github.com/apache/arrow-datafusion>).
 
-## Last minute problem submissions
+## Problem submissions
 
-If you have a problem that you'd like to submit, please do so by creating a pull request to this repository. The pull request should add a Markdown file with the problem description.
+If you have a problem that you'd like to submit, please do so by creating a pull request to this repository. The pull request should add a Markdown file with the problem description. If you need assisstance with the submission of your problem, please contact `dmitrii_demenev` on Discord or e-mail `demenev.dmitriy1@gmail.com`.
