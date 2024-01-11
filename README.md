@@ -52,7 +52,9 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Me
   * Myself
   * I
-* Repository: TBD
+* Repositories:
+  * <https://github.com/Omnipedia/RC-Hackathon-Website>
+  * <https://github.com/Omnipedia/RC-Hackathon-ChatUI>
 * Discord channel: TBD
 
 ### [Booking rooms for events](calgary-rust.md)
@@ -63,7 +65,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Me
   * Myself
   * I
-* Repository: TBD
+* Repository: <https://github.com/tailcallhq/tailcall>
 * Discord channel: TBD
 
 ### [Tailcall](tailcall.md)
