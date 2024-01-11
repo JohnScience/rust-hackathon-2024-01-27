@@ -16,7 +16,7 @@ We have little in-person time for the hackathon but you can continue working on 
 
 ## For newcomers to Rust
 
-You're encouraged to start solving problems without hesitation. However, if you don't feel comforable jumping into the hackathon's projects right away, you can start by learning the fundamentals of Rust first. See [this](https://discord.com/channels/1090234243566817352/1164384007962755112/1164388726701555854) message in the Discord server of Calgary Rust.
+You're encouraged to start solving problems without hesitation. However, if you don't feel comforable jumping into the hackathon's projects right away, you can start by learning the fundamentals of Rust first. See [this](https://discord.com/channels/1090234243566817352/1164384007962755112/1164388726701555854) message in the [Discord server of Calgary Rust].
 
 **Q:** Do we need to appoint any volunteers to help the newbies?
 
@@ -90,3 +90,4 @@ Notably, we have a privilege to have requests from companies like [Tailcall](htt
 If you have a problem that you'd like to submit for the hackathon, please do so by creating a pull request to this repository. The pull request should add a Markdown file with the problem description. If you need assisstance with the submission of your problem, please contact `dmitrii_demenev` on Discord or e-mail `demenev.dmitriy1@gmail.com`.
 
 [Calgary Rust]: https://discord.gg/N2vzPeADzn
+[Discord server of Calgary Rust]: https://discord.gg/N2vzPeADzn
