@@ -59,7 +59,7 @@ Further description is TBD.
 After the event is scheduled, we have to announce it...
 
 * In [Calgary Rust Discord server](https://discord.gg/N2vzPeADzn).
-* To Tony Grimes from Pixels YYC (perhaps, via a mention in the message in the Calgaru Rust Discord server).
+* To Tony Grimes from Pixels YYC (perhaps, via a mention in the message in the Calgary Rust Discord server).
 * Platform Calgary (see <https://www.platformcalgary.com/events/submit>).
 * To the [In The Know YYC](https://kettera.apps.ca-1a.mendixcloud.com/p/InTheKnowYYC).
 * Other platforms.
