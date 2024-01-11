@@ -52,7 +52,7 @@ After the form is submitted, the room is booked.
 
 After the room is booked, we have to publish the event on Meetup and Eventbrite. It involves filling out numerous forms and copying and pasting the same information over and over again.
 
-Further description is TBD.
+The process of publishing the event will be demonstrated during the in-person phase of the first day of the hackathon.
 
 ### Announcing the event
 
