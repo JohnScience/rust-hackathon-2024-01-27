@@ -2,6 +2,8 @@
 
 One part of organizing an in-person event is booking a room for it. While Calgary Rust isn't too big, we still can book a room in the Central Library for our events at no cost. However, this requires some manual work.
 
+**Disclaimer:** the problem is rather big but can be solved incrementally. For example, we can start with a simple script that books a room for a given date and time. Then, we can add more features to it.
+
 ## Process
 
 ### Booking a room
