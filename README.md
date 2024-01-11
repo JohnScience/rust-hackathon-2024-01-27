@@ -22,7 +22,7 @@ You're encouraged to start solving problems without hesitation. However, if you 
 
 Hackathon participants are encouraged to use [`git`](https://git-scm.com/) to collaborate on their projects. The projects can be hosted on GitHub, GitLab, Bitbucket, or any other platform that supports `git`.
 
-Though this is a Rust hackathon, the participants are free to use any programming language they want. For example, this can make a lot of sense for frontend development or machine learning. However, you're encouraged to use Rust.
+Though this is a Rust hackathon, the participants are free to use any programming language they want. For example, this can make a lot of sense for frontend development or machine learning. However, you're encouraged to use Rust. By the way, you can also use native Rust modules in Python, JavaScript, and nearly any other programming language.
 
 You are expected to self-organize to solve the problems. And you're encouraged to keep working on the projects after the in-person phase of the first day of the hackathon is over. To faciliate the communication between you, you're encouraged to communicate in the respective `#<project-name>` event channel in the [Discord server of Calgary Rust](https://discord.gg/N2vzPeADzn).
 
