@@ -1,5 +1,7 @@
 # Website for Omnipedia
 
+Repo: https://github.com/Omnipedia/RC-Hackathon-Website
+
 Full disclosure, we have a draft for this we're happy with and as this would be the marketing website for us, it's more about graphics than functionality. Our 'marketing team' is pretty happy with our current site, it's just missing images. I think that as a hackathon, you'd get more out of the Chat UI. 
 
 That said, if you want to go this route, we need a few pages. 
@@ -7,6 +9,8 @@ That said, if you want to go this route, we need a few pages.
 2. There needs to be a form page to contact us. The user would input their email address and a short message, say, 2000 characters.
 
 # Chat UI for Omnipedia
+
+Repo: https://github.com/Omnipedia/RC-Hackathon-ChatUI
 
 ## Acceptance Criteria
 - Given I enter a query, when the response is returned, then it contains the citation, and a reference to the source text appears on the right.
