@@ -19,6 +19,8 @@ Rooms like `2-05A Meeting Room`, `2-05B Meeting Room`, `2-05C Meeting Room`, and
 
 Rooms like `3-20A Idea Lab`, `3-10B Meeting Room` can accommodate up to 16 people.
 
+Rooms like `3-16B` can accommodate up to 100 people but it's required to have at least 25 attendees to book it. Earlier mentioned rooms also have the lower limits but we never had to worry about them.
+
 Note that some rooms like `3-10C Teen Study Hall` and `3-10D Teen Tech Lab` should not be used for our events.
 
 Right now, we can dispense with rooms that can accomodate only 10 people but I can foresee that we will need to book a room for 16 people rather soon.
