@@ -37,7 +37,6 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 #### Team A
 
 * Members:
-
   * TBD
 * Repository: TBD
 * Discord channel: [Calgary Rust] [`#petrinex`](https://discord.com/channels/1090234243566817352/1194995761142841394).
@@ -48,7 +47,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Tait Hoyem
   * ...
 * Repository: [TTWNO/hdaudio-uefi](https://github.com/TTWNO/hdaudio-uefi)
-* Discord channel [Calgary Rust: #hda-uefi](https://discord.gg/PXdsFhjPJH).
+* Discord channel [Calgary Rust] [`#hda-uefi`](https://discord.gg/PXdsFhjPJH).
 
 ### [Website for Omnipedia](omnipedia.md)
 

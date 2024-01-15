@@ -16,7 +16,7 @@ Here is the task (in order of difficulty):
   - Matrices
   - Tensors
 - Optimizations to make the code simpler, or to improve theoretical performance
-- BONUS: write new operations (`EXP2`, `EXP`, `CAST`, `NEG`, etc.) 
+- BONUS: write new operations (`EXP2`, `EXP`, `CAST`, `NEG`, etc.).
 
 Suggested resources:
 
