@@ -47,7 +47,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * Tait Hoyem
   * ...
 * Repository: [TTWNO/hdaudio-uefi](https://github.com/TTWNO/hdaudio-uefi)
-* Discord channel [Calgary Rust] [`#hda-uefi`](https://discord.gg/PXdsFhjPJH).
+* Discord channel [Calgary Rust] [`#hda-uefi`](https://discord.com/channels/1090234243566817352/1195208855764865159).
 
 ### [Website for Omnipedia](omnipedia.md)
 
