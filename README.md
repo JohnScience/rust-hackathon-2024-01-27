@@ -6,11 +6,11 @@ This is a [hackathon](https://www.brightidea.com/guide/hackathon/what-is-a-hacka
 
 ## Purpose of the hackathon
 
-The purpose of this hackathon is to help businesses (first and foremost, in Calgary!) solve their technical problems and demonstrate what Rust is capable of.
+The purpose of this hackathon is to help businesses (first and foremost, in Calgary!) solve their technical problems and demonstrate what [Rust](https://www.youtube.com/watch?v=5C_HPTJg5ek) is capable of.
 
 ## Duration of the hackathon
 
-The hackathon will last for at least two days (January 27 and 28) but the participants can choose to continue working on the projects after the hackathon. This can be done, for example, at events organized by [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/) who host hackathons every month.
+The hackathon will last for at least two days ([January 27](https://www.meetup.com/calgary-rust/events/298452155/) and [January 28](https://www.meetup.com/calgary-rust/events/298452254/)) but the participants can choose to continue working on the projects after the hackathon. This can be done, for example, at events organized by [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/) who host hackathons every month.
 
 We have little in-person time for the hackathon but you can continue working on the projects remotely. Further, we will discuss how we are going to facilitate the remote communication between the team members.
 
@@ -38,16 +38,15 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 
 * Members:
 
-  * Me
-  * Myself
-  * I
+  * TBD
 * Repository: TBD
 * Discord channel: [Calgary Rust] [`#petrinex`](https://discord.com/channels/1090234243566817352/1194995761142841394).
 
 ### [Intel HDA UEFI Driver](intel-hd-audio-driver.md)
 
 * Members:
-    * Tait Hoyem
+  * Tait Hoyem
+  * ...
 * Repository: [TTWNO/hdaudio-uefi](https://github.com/TTWNO/hdaudio-uefi)
 * Discord channel [Calgary Rust: #hda-uefi](https://discord.gg/PXdsFhjPJH).
 
@@ -56,9 +55,8 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 #### Team B
 
 * Members:
-  * Me
-  * Myself
-  * I
+  * Michael McCulloch
+  * ...
 * Repositories:
   * <https://github.com/Omnipedia/RC-Hackathon-Website>
   * <https://github.com/Omnipedia/RC-Hackathon-ChatUI>
@@ -69,9 +67,8 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 #### Team C
 
 * Members:
-  * Me
-  * Myself
-  * I
+  * Dmitrii Demenev
+  * ...
 * Repository: TBD.
 * Discord channel: [Calgary Rust] [`#booking-rooms`](https://discord.com/channels/1090234243566817352/1194995158467485718).
 
@@ -80,11 +77,18 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 #### Team D
 
 * Members:
-  * Me
-  * Myself
-  * I
+  * TBD
 * Repository: <https://github.com/tailcallhq/tailcall>.
 * Discord channel: [Tailcall](https://discord.com/invite/Q2ZExpFCnA) [`#contributors`](https://discord.com/channels/1044859667798568962/1156188728474214472).
+
+### [Autodiff engine](autodiff-engine.md)
+
+#### Team E
+
+* Members:
+  * TBD
+* Repository: <https://github.com/GroupLabs/autodiff>
+* Discord channel: [Calgary Rust] [`#autodiff-engine`](https://discord.com/channels/1090234243566817352/1196591774664228884).
 
 ### Other problems
 
