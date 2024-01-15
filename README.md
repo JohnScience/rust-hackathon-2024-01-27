@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a hackathon for members of Calgary Rust, the user group for the Rust programming language in Calgary, Alberta, Canada.
+This is a [hackathon](https://www.brightidea.com/guide/hackathon/what-is-a-hackathon/) for members of Calgary Rust, the user group for the Rust programming language in Calgary, Alberta, Canada.
 
 ## Purpose of the hackathon
 
