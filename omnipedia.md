@@ -12,6 +12,36 @@ That said, if you want to go this route, we need a few pages.
 
 Repo: https://github.com/Omnipedia/RC-Hackathon-ChatUI
 
+## Mock API Service
+This contains a Mock API Service under `chat-api-mock`. While it is running at [http://0.0.0.0:5001](http://0.0.0.0:5001), you may find the api ReDoc documentation and example api calls at [http://0.0.0.0:5001/api-doc](http://0.0.0.0:5001/api-doc). An error will trigger under the following conditions:
+1. The last user message is simply 'error'
+2. There are no messages in the conversation.
+3. The last message belongs to the Assistant
+### Valid API Call
+```bash
+curl --location 'http://0.0.0.0:5001/streaming_conversation' \
+--header 'Content-Type: application/json' \
+--header 'Connection: keep-alive' \
+--header 'Cache-Control: no-cache' \
+--data '[
+  {
+    "User": "String"
+  }
+]'
+```
+### Trigger Mock API Error
+```bash
+curl --location 'http://0.0.0.0:5001/streaming_conversation' \
+--header 'Content-Type: application/json' \
+--header 'Connection: keep-alive' \
+--header 'Cache-Control: no-cache' \
+--data '[
+  {
+    "User": "error"
+  }
+]'
+```
+
 ## Acceptance Criteria
 - Given I enter a query, when the response is returned, then it contains the citation, and a reference to the source text appears on the right.
 - Given the reference is printed, when I click the expand button next to it, then I see the original source passage.
