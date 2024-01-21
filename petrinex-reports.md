@@ -37,7 +37,7 @@ However, there can be false positives.
 
 **TODO:** Brush up on the topic of false positives.
 
-Enhanced Production Audit Program (EPAP) helps companies comply with our requirements and supports our compliance assurance program. Created through Directive 076: Operator Declaration Regarding Measurement and Reporting, EPAP
+Enhanced Production Audit Program (EPAP) helps companies comply with the requirements of AER (Alberta Energy Regulator) and supports its compliance assurance program. Created through Directive 076: Operator Declaration Regarding Measurement and Reporting, EPAP
 
 * encourages operators to improve their measurement and reporting processes, which leads to greater compliance and may reduce the number of noncompliances that we find in field inspections and audits; and
 * helps operators avoid the costs related to enforcement activities created by Directive 019: Compliance Assurance—Enforcement [Rescinded by Manual 013: Compliance and Enforcement Program].
