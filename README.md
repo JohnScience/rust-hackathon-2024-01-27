@@ -101,3 +101,25 @@ If you have a problem that you'd like to submit for the hackathon, please do so 
 
 [Calgary Rust]: https://discord.gg/N2vzPeADzn
 [Discord server of Calgary Rust]: https://discord.gg/N2vzPeADzn
+
+## Other questions
+
+<details>
+  <summary>Will the solutions to the problems be judged?</summary>
+  
+  Short answer, no. However, the teams will be encouraged to present their results.
+
+  Judging would introduce even more complexity to the event planning. If we have other, more focused hackathons, it will be easier because the expertise would be more narrow and it would be easier to invite/select a qualified judge or judges.
+
+</details>
+
+<details>
+  <summary>What constitutes a finished project?</summary>
+  
+  It depends on such factors as...
+
+  * How (un-)structured is the problem statement? If the problem statement is very concrete and the nature of the problem nearly perfectly fits the span of the hackathon, the project can be considered finished if it addresses all the requirements of the problem statement.
+  * Does the startup/business/third-party want to continue the project from there? If so, it may end up becoming an actual product or an in-house project (e.g. a tool/[library](https://en.wikipedia.org/wiki/Library_(computing))). Then, the project will last as long as it brings the value and is maintained.
+  * Will the developer team work on the project afterwards? If the team cannot continue working on it and the project isn't finished, the project is not completed. Though undesirable, such scenario still can be valuable.
+
+</details>
