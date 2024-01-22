@@ -118,8 +118,10 @@ If you have a problem that you'd like to submit for the hackathon, please do so 
   
   It depends on such factors as...
 
-  * How (un-)structured is the problem statement? If the problem statement is very concrete and the nature of the problem nearly perfectly fits the span of the hackathon, the project can be considered finished if it addresses all the requirements of the problem statement.
-  * Does the startup/business/third-party want to continue the project from there? If so, it may end up becoming an actual product or an in-house project (e.g. a tool/[library](https://en.wikipedia.org/wiki/Library_(computing))). Then, the project will last as long as it brings the value and is maintained.
-  * Will the developer team work on the project afterwards? If the team cannot continue working on it and the project isn't finished, the project is not completed. Though undesirable, such scenario still can be valuable.
+  * **How (un-)structured is the problem statement?** If the problem statement is very concrete and the nature of the problem nearly perfectly fits the span of the hackathon, the project can be considered finished if it addresses all the requirements of the problem statement.
+  * **Does the startup/business/third-party want to continue the project from there?** If so, it may end up becoming an actual product or an in-house project (e.g. a tool/[library](https://en.wikipedia.org/wiki/Library_(computing))). Then, the project will last as long as it brings the value and is maintained.
+  * **Will the team of developers work on the project afterwards?**
+    * If the team cannot continue working on the project after the hackathon ends and the soltuion doesn't meet the criteria in the problem statement, the project can be considered unfinished/dead/terminated. Though undesirable, such scenario still can be valuable.
+    * If the team is going to keep working on the project after the hackathon ends but the startup/business/third-party isn't interested, the project will be unfinished/dead/terminated for the company and the team will be encouraged to work on something else.
 
 </details>
