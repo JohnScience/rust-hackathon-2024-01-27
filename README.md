@@ -109,7 +109,7 @@ If you have a problem that you'd like to submit for the hackathon, please do so 
   
   Short answer, no. However, the teams will be encouraged to present their results.
 
-  Judging would introduce even more complexity to the event planning. If we have other, more focused hackathons, it will be easier because the expertise would be more narrow and it would be easier to invite/select a qualified judge or judges.
+  Judging would introduce even more complexity to the event planning. If we have other, more focused hackathons, it will be easier to invite/select a qualified judge or judges because the expertise would be narrower.
 
 </details>
 
