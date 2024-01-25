@@ -41,14 +41,6 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 * Repository: TBD
 * Discord channel: [Calgary Rust] [`#petrinex`](https://discord.com/channels/1090234243566817352/1194995761142841394).
 
-### [Intel HDA UEFI Driver](intel-hd-audio-driver.md)
-
-* Members:
-  * Tait Hoyem
-  * ...
-* Repository: [TTWNO/hdaudio-uefi](https://github.com/TTWNO/hdaudio-uefi)
-* Discord channel [Calgary Rust] [`#hda-uefi`](https://discord.com/channels/1090234243566817352/1195208855764865159).
-
 ### [Website for Omnipedia](omnipedia.md)
 
 #### Team B
@@ -88,6 +80,16 @@ You are expected to self-organize to solve the problems. And you're encouraged t
   * TBD
 * Repository: <https://github.com/GroupLabs/autodiff>
 * Discord channel: [Calgary Rust] [`#autodiff-engine`](https://discord.com/channels/1090234243566817352/1196591774664228884).
+
+### [Intel HDA UEFI Driver](intel-hd-audio-driver.md)
+
+##### Team F
+
+* Members:
+  * Tait Hoyem
+  * ...
+* Repository: [TTWNO/hdaudio-uefi](https://github.com/TTWNO/hdaudio-uefi)
+* Discord channel [Calgary Rust] [`#hda-uefi`](https://discord.com/channels/1090234243566817352/1195208855764865159).
 
 ### Other problems
 
