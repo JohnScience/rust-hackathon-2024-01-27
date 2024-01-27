@@ -32,7 +32,7 @@ You are expected to self-organize to solve the problems. And you're encouraged t
 
 **Disclaimer:** the problems can be highly unstructured and require communication with the people who submitted them to clarify details.
 
-### [Petrinex reports](petrinex-reports.md)
+### [Petrinex reports](petrinex-reports.md) (POSTPONED)
 
 #### Team A
 
